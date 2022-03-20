@@ -21,7 +21,7 @@ The Game uses a number of Technologies to work properly:
 - [CSS]
 - [JSP]
 - [Servlet]
-- [Apche Derbi DB] 
+- [Apche Derby DB] 
 - [MVC] 
 
 ## License
